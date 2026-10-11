@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/bootstrap/commit/9797ac6a7324041beee7e37d232aa76c733e89b3",
       "git:hexsha": "9797ac6a7324041beee7e37d232aa76c733e89b3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
